@@ -15,6 +15,7 @@
         <module name="eureka-server" />
         <module name="commons" />
         <module name="borrow-service" />
+        <module name="hystrix-dashboard" />
       </profile>
     </annotationProcessing>
   </component>

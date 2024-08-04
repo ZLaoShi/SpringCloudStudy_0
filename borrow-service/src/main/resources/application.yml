@@ -16,3 +16,8 @@ eureka:
 feign:
   circuit breaker:
     enabled: true
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
